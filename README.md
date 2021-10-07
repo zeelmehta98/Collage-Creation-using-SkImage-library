@@ -1,4 +1,4 @@
-# Collage-using-Python
+# Collage Creation using Skimage library
 Task : Make a collage of images in python where six images are randomly chosen from given ten     images, and collage is created based on color/edge similarity.
 
 Constraints : PIL and open-cv libraries cannot be used.
